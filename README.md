@@ -1,3 +1,8 @@
+## CVC-FTC Fork
+This repo is a fork of the pedropathing quickstart, which is a fork of the oficial FTC SDK.
+Our fork contains our code from the current FIRST Tech Challenge season
+
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the DECODE (2025-2026) competition season.
